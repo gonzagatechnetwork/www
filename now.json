@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": ".*",
+      "status": 307,
+      "headers": {
+        "Location": "https://www.notion.so/Gonzaga-Tech-Network-d0c5d73d9e1e4b22988011453bab0494"
+      }
+    }
+  ]
+}
